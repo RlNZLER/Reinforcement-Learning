@@ -14,7 +14,7 @@ by **Richard S. Sutton** and **Andrew G. Barto**
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| [Tic-Tac-Toe RL Agent]([./TicTacToe-RL](https://github.com/RlNZLER/RL-basic_Tic-Tac-Toe)) | Implemented an agent using TD(0) learning to play Tic-Tac-Toe against a human using a value function. | ✅ Completed |
+| [Tic-Tac-Toe RL Agent](https://github.com/RlNZLER/RL-basic_Tic-Tac-Toe.git) | Implemented an agent using TD(0) learning to play Tic-Tac-Toe against a human using a value function. | ✅ Completed |
 | More coming soon... | Stay tuned as I build more agents using MC, Q-learning, SARSA, and policy gradients! | 🔄 In Progress |
 
 ---
