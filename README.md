@@ -23,7 +23,7 @@ by **Richard S. Sutton** and **Andrew G. Barto**
 ---
 
 ## 📂 Minor Projects (Per Chapter)
-These are small, focused coding exercises inspired by each chapter of *Reinforcement Learning: An Introduction*.  
+These are small, focused coding exercises inspired by each chapter of [*Reinforcement Learning: An Introduction*](http://incompleteideas.net/book/the-book-2nd.html).  
 They help reinforce concepts before building full-scale agents.
 
 | Chapter | Project | Description | Status |
