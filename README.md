@@ -4,9 +4,8 @@ Welcome to my personal Reinforcement Learning (RL) repository!
 This space is dedicated to tracking my progress as I explore, implement, and document RL concepts through hands-on projects.
 
 Inspired by the book:  
-**"Reinforcement Learning: An Introduction"**  
+📘 [**"Reinforcement Learning: An Introduction"**](http://incompleteideas.net/book/the-book-2nd.html)
 by **Richard S. Sutton** and **Andrew G. Barto**  
-📘 [Free Book Link](http://incompleteideas.net/book/the-book-2nd.html)
 
 ---
 
