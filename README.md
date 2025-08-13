@@ -14,8 +14,23 @@ by **Richard S. Sutton** and **Andrew G. Barto**
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| [Tic-Tac-Toe RL Agent](https://github.com/RlNZLER/RL-basic_Tic-Tac-Toe.git) | Implemented an agent using TD(0) learning to play Tic-Tac-Toe against a human using a value function. | ✅ Completed |
-| More coming soon... | Stay tuned as I build more agents using MC, Q-learning, SARSA, and policy gradients! | 🔄 In Progress |
+| [Tic-Tac-Toe RL Agent](https://github.com/RlNZLER/RL-basic_Tic-Tac-Toe.git) | Built an agent using TD(0) learning and a state-value function to play Tic-Tac-Toe against a human opponent. | ✅ Completed |
+| [Lunar Lander](https://github.com/RlNZLER/RL-Lunar-Lander.git) | Training an agent in OpenAI Gym’s LunarLander-v2 environment using Q-learning and policy-based methods. | 🔄 In Progress |
+| [Cartpole](https://github.com/RlNZLER/RL-classic-CartPole.git) | Implementing value-based methods to balance a pole on a moving cart in the classic CartPole-v1 environment. | 🔄 In Progress |
+| [Blackjack](https://github.com/RlNZLER/RL-classic-Blackjack.git) | Developing a Monte Carlo control agent to learn optimal play strategies in the Blackjack environment. | 🔄 In Progress |
+| More coming soon... | Upcoming projects will explore advanced RL algorithms including SARSA, Deep Q-Networks (DQN), and Policy Gradients. | 🔄 In Progress |
+
+---
+
+## 📂 Minor Projects (Per Chapter)
+These are small, focused coding exercises inspired by each chapter of *Reinforcement Learning: An Introduction*.  
+They help reinforce concepts before building full-scale agents.
+
+| Chapter | Project | Description | Status |
+|---------|---------|-------------|--------|
+| 2 | [10-Armed Bandit Simulation](minor_projects/chapter-2-bandit/10-armed-bandit.ipynb) | Simulated ε-greedy action selection with sample-average and constant step-size methods. | ✅ Completed |
+| 2 | [Sample-Average vs Constant Step-Size](minor_projects/chapter-2-bandit/Nonstationary-10-Armed-Bandit.ipynb) | Experiment comparing sample-average and constant step-size methods in a nonstationary 10-armed bandit problem, highlighting adaptation issues. | ✅ Completed |
+| ... | ... | ... | ... |
 
 ---
 
