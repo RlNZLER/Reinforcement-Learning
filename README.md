@@ -31,6 +31,7 @@ They help reinforce concepts before building full-scale agents.
 | 2 | [Sample-Average vs Constant Step-Size](minor_projects/chapter-2-bandit/Nonstationary-10-Armed-Bandit.ipynb) | Experiment comparing sample-average and constant step-size methods in a nonstationary 10-armed bandit problem, highlighting adaptation issues. | ✅ Completed |
 | 2 | [Optimistic Initial Values + ε-Greedy](minor_projects/chapter-2-bandit/optimistic_vs_epsilon_greedy.ipynb) | Compared the effect of optimistic initialization and ε-greedy exploration strategies on action selection and reward in the 10-armed bandit. | ✅ Completed |
 | 2 | [Upper Confidence Bound (UCB) Action Selection](minor_projects/chapter-2-bandit/ucb_action_selection_demo.ipynb) | Implemented Upper Confidence Bound (UCB) action selection and compared it with ε-greedy and greedy strategies. | ✅ Completed |
+| 2 | [Gradient Bandit Algorithm](minor_projects/chapter-2-bandit/gradient_bandit_demo.ipynb) | Implemented the Gradient Bandit algorithm (with and without baseline) and compared it to softmax-Q, highlighting its role as the foundation of modern policy gradients. | ✅ Completed |
 | x | More coming soon... | Upcoming projects will explore advanced RL algorithms including SARSA, Deep Q-Networks (DQN), and Policy Gradients. | 🔄 In Progress |
 
 ---
