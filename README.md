@@ -25,14 +25,36 @@ by **Richard S. Sutton** and **Andrew G. Barto**
 These are small, focused coding exercises inspired by each chapter of [*Reinforcement Learning: An Introduction*](http://incompleteideas.net/book/the-book-2nd.html).  
 They help reinforce concepts before building full-scale agents.
 
-| Chapter | Project | Description | Status |
-|---------|---------|-------------|--------|
-| 2 | [10-Armed Bandit Simulation](minor_projects/chapter-2-bandit/10-armed-bandit.ipynb) | Simulated ε-greedy action selection with sample-average and constant step-size methods. | ✅ Completed |
-| 2 | [Sample-Average vs Constant Step-Size](minor_projects/chapter-2-bandit/Nonstationary-10-Armed-Bandit.ipynb) | Experiment comparing sample-average and constant step-size methods in a nonstationary 10-armed bandit problem, highlighting adaptation issues. | ✅ Completed |
-| 2 | [Optimistic Initial Values + ε-Greedy](minor_projects/chapter-2-bandit/optimistic_vs_epsilon_greedy.ipynb) | Compared the effect of optimistic initialization and ε-greedy exploration strategies on action selection and reward in the 10-armed bandit. | ✅ Completed |
-| 2 | [Upper Confidence Bound (UCB) Action Selection](minor_projects/chapter-2-bandit/ucb_action_selection_demo.ipynb) | Implemented Upper Confidence Bound (UCB) action selection and compared it with ε-greedy and greedy strategies. | ✅ Completed |
-| 2 | [Gradient Bandit Algorithm](minor_projects/chapter-2-bandit/gradient_bandit_demo.ipynb) | Implemented the Gradient Bandit algorithm (with and without baseline) and compared it to softmax-Q, highlighting its role as the foundation of modern policy gradients. | ✅ Completed |
-| x | More coming soon... | Upcoming projects will explore advanced RL algorithms including SARSA, Deep Q-Networks (DQN), and Policy Gradients. | 🔄 In Progress |
+<details>
+<summary>📘 Chapter 1 — Introduction</summary>
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [Tic-Tac-Toe RL Agent](https://github.com/RlNZLER/RL-basic_Tic-Tac-Toe.git) | Built an agent using TD(0) learning and a state-value function to play Tic-Tac-Toe against a human opponent. | ✅ Completed |
+
+</details>
+
+<details>
+<summary>📘 Chapter 2 — Multi-Armed Bandits</summary>
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [10-Armed Bandit Simulation](minor_projects/chapter-2-bandit/10-armed-bandit.ipynb) | Simulated ε-greedy action selection with sample-average and constant step-size methods. | ✅ Completed |
+| [Sample-Average vs Constant Step-Size](minor_projects/chapter-2-bandit/Nonstationary-10-Armed-Bandit.ipynb) | Experiment comparing sample-average and constant step-size methods in a nonstationary 10-armed bandit problem, highlighting adaptation issues. | ✅ Completed |
+| [Optimistic Initial Values + ε-Greedy](minor_projects/chapter-2-bandit/optimistic_vs_epsilon_greedy.ipynb) | Compared the effect of optimistic initialization and ε-greedy exploration strategies on action selection and reward in the 10-armed bandit. | ✅ Completed |
+| [Upper Confidence Bound (UCB) Action Selection](minor_projects/chapter-2-bandit/ucb_action_selection_demo.ipynb) | Implemented Upper Confidence Bound (UCB) action selection and compared it with ε-greedy and greedy strategies. | ✅ Completed |
+| [Gradient Bandit Algorithm](minor_projects/chapter-2-bandit/gradient_bandit_demo.ipynb) | Implemented the Gradient Bandit algorithm (with and without baseline) and compared it to softmax-Q, highlighting its role as the foundation of modern policy gradients. | ✅ Completed |
+
+</details>
+
+<details>
+<summary>📘 Chapter 3 — Finite Markov Decision Processes</summary>
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| ... | Upcoming projects will explore more advanced RL algorithms like SARSA. | 🔄 In Progress |
+
+</details>
 
 ---
 
